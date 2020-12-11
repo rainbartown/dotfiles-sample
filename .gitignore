@@ -1,0 +1,24 @@
+# vim
+dotfiles/vim/.vim/backup/*
+dotfiles/vim/.vim/viminfo
+dotfiles/vim/.vim/.netrwhist
+
+# vscode
+globalStorage/
+workspaceStorage/
+
+# zsh
+dotfiles/zsh/.zsh.d/.zcompcache/
+dotfiles/zsh/.zsh.d/.zcompdump
+dotfiles/zsh/.zsh.d/.zsh_history
+dotfiles/zsh/.zsh.d/.zsh_sessions
+
+# macOS
+.DS_Store
+
+# local settings
+*.local.*
+*.local/
+
+# gitkeep
+!.gitkeep

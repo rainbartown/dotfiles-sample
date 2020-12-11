@@ -1,0 +1,6 @@
+# vim
+vim/.vim                ${HOME}/.vim
+
+# zsh
+zsh/.zsh.d              ${HOME}/.zsh.d
+zsh/.zshenv             ${HOME}/.zshenv

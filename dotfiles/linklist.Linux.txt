@@ -1,0 +1,5 @@
+# Visual Studio Code
+vscode/Code/User/settings.json      ${HOME}/.config/Code/User/settings.json
+vscode/Code/User/keybindings.json   ${HOME}/.config/Code/User/keybindings.json
+vscode/Code/User/locale.json        ${HOME}/.config/Code/User/locale.json
+vscode/Code/User/snippets           ${HOME}/.config/Code/User/snippets

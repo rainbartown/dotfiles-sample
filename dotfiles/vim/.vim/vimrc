@@ -1,0 +1,7 @@
+set encoding=utf-8
+scriptencoding utf-8
+" vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4 textwidth=0:
+
+
+" 行番号を表示
+set number
